@@ -1,0 +1,83 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+ 
+}
+h1{
+    font-size:60px;
+}
+.coloringone{
+    color: #EC4C7B;
+}
+/* Header text part styled   */
+.part-one{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left:2%;
+    
+}
+/* Image styling   */
+.part-one img{
+    width: 100%; 
+}
+.header-area{
+    /* border: 1px solid red;
+    background-color: #EE5A24; */
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 1000px;
+}
+.hireme_button{
+    text-decoration: none;
+    background-color: #EC4C7B;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white; 
+    font-weight:500;
+    background-image: linear-gradient(#EC4C7B,#EC4C7B,#EC4C7B);
+}
+.dream-project-area {
+    background-image: url("../image/header-bg.png");
+    background-repeat: no-repeat;
+}
+.mahee-experience{
+    box-shadow: 10px  10px 40px grey;
+
+}
+.experience-area{
+    background-image: url("../image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left ; 
+    
+}
+.workone{
+    fill:blue;
+    stroke:pink;
+    stroke-width:5;
+    fill-opacity:0.1;
+    stroke-opacity:0.9;
+}
+.worktwo{
+    fill:blue;
+    stroke:pink;
+    stroke-width:5;
+    fill-opacity:0.1;
+    stroke-opacity:0.9;
+}
+.workthree{
+    fill:blue;
+    stroke:pink;
+    stroke-width:5;
+    fill-opacity:0.1;
+    stroke-opacity:0.9;
+}
+footer{
+    text-align: center;
+}
+.experience{
+    text-align: center;
+}
